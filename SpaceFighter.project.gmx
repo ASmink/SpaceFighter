@@ -19,7 +19,9 @@
     <object>objects\obj_fighter_white</object>
     <object>objects\obj_missile_white</object>
     <object>objects\obj_enemy_ship_blue</object>
+    <object>objects\obj_enemy_missile_blue_ship</object>
   </objects>
+  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rm_level_1</room>
   </rooms>
