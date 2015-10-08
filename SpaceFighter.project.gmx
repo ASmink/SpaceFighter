@@ -7,6 +7,7 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\spr_fighter_white</sprite>
+    <sprite>sprites\spr_missile_white</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_space</background>
