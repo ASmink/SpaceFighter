@@ -10,6 +10,10 @@
     <sprite>sprites\spr_missile_white</sprite>
     <sprite>sprites\spr_enemy_ship_blue</sprite>
     <sprite>sprites\spr_enemy_missile_blue_ship</sprite>
+    <sprite>sprites\spr_fighter_white_explode</sprite>
+    <sprite>sprites\spr_enemy_ship_blue_explode</sprite>
+    <sprite>sprites\spr_fighter_white_left</sprite>
+    <sprite>sprites\spr_fighter_white_right</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_space</background>
@@ -20,10 +24,12 @@
     <object>objects\obj_missile_white</object>
     <object>objects\obj_enemy_ship_blue</object>
     <object>objects\obj_enemy_missile_blue_ship</object>
+    <object>objects\obj_fighter_white_explode</object>
+    <object>objects\obj_enemy_ship_blue_explode</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rm_level_1</room>
+    <room>rooms\rm_main_menu</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
