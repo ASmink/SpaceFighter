@@ -112,16 +112,16 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="5" enumb="32">
+    <event eventtype="9" enumb="32">
       <action>
         <libid>1</libid>
-        <id>201</id>
+        <id>206</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
+        <functionname>action_create_object_motion</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>-1</relative>
@@ -133,35 +133,19 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0</string>
+            <string>-30</string>
           </argument>
           <argument>
             <kind>0</kind>
             <string>0</string>
           </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>101</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_move</functionname>
-        <codestring></codestring>
-        <whoName>obj_missile_white</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
           <argument>
-            <kind>1</kind>
-            <string>000000010</string>
+            <kind>0</kind>
+            <string>3</string>
           </argument>
           <argument>
             <kind>0</kind>
-            <string>10</string>
+            <string>90</string>
           </argument>
         </arguments>
       </action>

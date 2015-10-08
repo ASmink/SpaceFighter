@@ -8,6 +8,8 @@
   <sprites name="sprites">
     <sprite>sprites\spr_fighter_white</sprite>
     <sprite>sprites\spr_missile_white</sprite>
+    <sprite>sprites\spr_enemy_ship_blue</sprite>
+    <sprite>sprites\spr_enemy_missile_blue_ship</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_space</background>
@@ -16,6 +18,7 @@
   <objects name="objects">
     <object>objects\obj_fighter_white</object>
     <object>objects\obj_missile_white</object>
+    <object>objects\obj_enemy_ship_blue</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_level_1</room>
